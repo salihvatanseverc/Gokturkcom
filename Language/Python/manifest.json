@@ -1,0 +1,9 @@
+{
+  "name": "Python",
+  "version": "3.14",
+  "type": "interpreter",
+  "entry": "runtime/python.exe",
+  "working_dir": "runtime",
+  "args": [],
+  "extensions": [".py"]
+}
