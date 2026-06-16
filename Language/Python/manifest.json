@@ -1,9 +1,7 @@
 {
   "name": "Python",
-  "version": "3.14",
-  "type": "interpreter",
-  "entry": "runtime/python.exe",
-  "working_dir": "runtime",
-  "args": [],
-  "extensions": [".py"]
+  "version": "3.14.5",
+  "type": "runtime",
+  "extensions": [".py"],
+  "entry": "Runtime/python.exe"
 }
